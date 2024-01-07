@@ -1,1 +1,9 @@
 /* This is the css file */
+.practice {
+    color: blue;
+    background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    height: auto;
+    width: auto;   
+}
